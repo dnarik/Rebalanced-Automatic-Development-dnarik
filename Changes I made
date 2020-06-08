@@ -1,0 +1,54 @@
+modifier = {
+			factor = 0.95
+			has_institution = renaissance
+		}
+
+		modifier = {
+			factor = 0.99
+			innovativeness = 10
+		}
+
+		modifier = {
+			factor = 0.99
+			innovativeness = 20
+		}
+
+		modifier = {
+			factor = 0.99
+			innovativeness = 30
+		}
+
+		modifier = {
+			factor = 0.99
+			innovativeness = 40
+		}
+
+		modifier = {
+			factor = 0.99
+			innovativeness = 50
+		}
+
+		modifier = {
+			factor = 0.99
+			innovativeness = 60
+		}
+
+		modifier = {
+			factor = 0.99
+			innovativeness = 70
+		}
+
+		modifier = {
+			factor = 0.99
+			innovativeness = 80
+		}
+
+		modifier = {
+			factor = 0.99
+			innovativeness = 90
+		}
+
+		modifier = {
+			factor = 0.99
+			innovativeness = 100
+		}
